@@ -1,2 +1,2 @@
 # sowindsor.com
-Personal Website
+So Windsor Consulting Main Website
